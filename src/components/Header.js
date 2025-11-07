@@ -7,6 +7,7 @@ const Header = ({ cartItemCount, activeTab, setActiveTab }) => {
       <div className="header-content">
         <div className="logo">
           <h1>🛍️ Vibe Commerce</h1>
+          
         </div>
 
         <nav className="navigation">
